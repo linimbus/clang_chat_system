@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.am": "makefile",
+        "common.h": "c",
+        "string_view": "c"
+    }
+}
